@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/MAXKIRITO/B11123221-Lab-Pan",
   "author": "maxkirito <yxiao940@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.10.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
 }
